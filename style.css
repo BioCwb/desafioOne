@@ -67,8 +67,8 @@ main {
     background-color: var(--color-white);
     max-width: 320px;
     padding: 1.075rem;
-    border-radius: 1.35rem;
-    box-shadow: 0 1.6rem 1.6rem hsla(0, 0%, 0%, 0.05);
+    border-radius: 0.575rem;
+    box-shadow: 0 1.6rem 1.6rem hsla(58, 18%, 16%, 0.05);
     text-align: center;
     margin: 1.075rem;
 }
